@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Navaneeth, a full-time full-stack developer 👨‍💻 working peacefully since 2019 🚀</div>  
+### <div align="center">I'm Rtxeon, a full-time full-stack developer 👨‍💻 working peacefully since 2016 🚀</div>  
   
 
 <br/>  
@@ -52,40 +52,3 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/navaneethkm004" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/navaneethkm004" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/navaneethkm" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/14627873/navaneeth-k-m" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
-
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
-<div align="center">
-  
-<br/>  
-<img src="https://komarev.com/ghpvc/?username=navaneethkm004&&style=flat-square" align="center" />
-</div> 
-<br/> 
