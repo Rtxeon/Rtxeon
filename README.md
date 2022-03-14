@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Rtxeon, a full-time full-stack developer 👨‍💻 working peacefully since 2016 🚀</div>  
   
 
