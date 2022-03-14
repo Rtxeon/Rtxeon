@@ -72,7 +72,7 @@
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=brblacky&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Rtxeon&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/880675703761272854?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/880675703761272854?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/880675703761272854?style=flat-square)
