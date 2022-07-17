@@ -1,4 +1,4 @@
-### <div align="center">I'm Rtxeon, a full-time full-stack developer 👨‍💻 working peacefully since 2016 🚀</div>  
+### <div align="center">I'm Rtxeon, a self-learner developer 👨‍💻 since 2020 🚀</div>  
   
 
 <br/>
